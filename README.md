@@ -10,6 +10,8 @@ Learn how to write Kotlin code to interact with the UI elements in the tip calcu
 - [x] Calculate the tip
 - [x] Test and debug 
 - [x] Adopt good coding practices
+- [x] Change App theme, Icon
+- [x] Learn Material Design
 
 ## TRAINING > ANDROID BASICS IN KOTLIN > LAYOUTS > USER INPUT 1
 https://developer.android.com/courses/pathways/android-basics-kotlin-unit-2-pathway-1
